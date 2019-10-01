@@ -1,0 +1,23 @@
+{
+  "name": "typescript-reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heminjohnson/typescript-reference.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heminjohnson/typescript-reference/issues"
+  },
+  "homepage": "https://github.com/heminjohnson/typescript-reference#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

@@ -1,0 +1,66 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# testing
+/coverage
+test-report.xml
+
+# production
+/build
+
+# next
+/.next
+
+# certificates
+/certs/
+
+# PWA
+/static/workbox
+
+# IDEs and editors
+/.idea
+/.vscode
+/.history
+/.cache
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.tmp
+*.code-workspace
+
+# npm and yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/public
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.gqlconfig
+.expo
+*.log
+*.sqlite3
+*.iml
+.npmrc
+swagger.yml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
